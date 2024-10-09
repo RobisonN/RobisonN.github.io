@@ -1,12 +1,18 @@
 body {
     background-color: rgb(28, 28, 30);
     font-family: Arial, Helvetica, sans-serif;
+    
 
 }
 
 h1 {
     text-align: center;
     color:rgb(230, 230, 230);
+}
+
+h2 {
+    text-align: left;
+    color: rgb(230, 230, 230)
 }
 
 .projects { 
@@ -32,7 +38,7 @@ border-radius: 25%;
 
 a { 
     text-decoration: none;
-    color: purple;
+    color: rgb(69, 55, 147);
 }
 
 .project p { 
