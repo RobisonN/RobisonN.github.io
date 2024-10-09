@@ -15,6 +15,10 @@ h2 {
     color: rgb(230, 230, 230)
 }
 
+h3{
+    text-align: center;
+}
+
 .projects { 
     display:flex; 
     flex-wrap:wrap; 
