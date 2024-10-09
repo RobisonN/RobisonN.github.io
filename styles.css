@@ -1,10 +1,22 @@
 body {
-    background-color: darkblue;
+    background-color: rgb(34, 34, 131);
     font-family: Arial, Helvetica, sans-serif;
 
 }
+
 h1 {
     text-align: center;
     color:darkgrey;
-    
+}
+
+.projects { 
+    display:flex; 
+    flex-wrap:wrap; 
+} 
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: white;
+border-radius: 25%;
 }
