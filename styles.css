@@ -1,12 +1,12 @@
 body {
-    background-color: rgb(34, 34, 131);
+    background-color: rgb(28, 28, 30);
     font-family: Arial, Helvetica, sans-serif;
 
 }
 
 h1 {
     text-align: center;
-    color:darkgrey;
+    color:rgb(230, 230, 230);
 }
 
 .projects { 
